@@ -1,4 +1,8 @@
 pandas
+ipykernel
 numpy
-
- -e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+#.e -
